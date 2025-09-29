@@ -1,0 +1,9 @@
+google-generativeai==0.3.2
+pytrends==4.9.2
+praw==7.7.1
+requests==2.31.0
+matplotlib==3.8.2
+seaborn==0.13.0
+reportlab==4.0.7
+pandas==2.1.4
+numpy==1.26.2
